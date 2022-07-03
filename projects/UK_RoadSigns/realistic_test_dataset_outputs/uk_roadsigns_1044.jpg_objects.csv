@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1044.jpg,Frail_pedestrians_likely_to_cross,0.95,8,8,130,116
+uk_roadsigns_1044.jpg,Fire_station_ahead,0.93,984,444,1155,693
+uk_roadsigns_1044.jpg,Hump_bridge,0.82,258,119,493,333
+uk_roadsigns_1044.jpg,Part_time_traffic_signals_ahead,0.7,745,333,836,460

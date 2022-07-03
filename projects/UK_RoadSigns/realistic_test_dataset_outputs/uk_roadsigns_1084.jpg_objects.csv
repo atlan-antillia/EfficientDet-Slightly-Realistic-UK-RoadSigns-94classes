@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1084.jpg,No_stopping,0.99,252,119,497,361
+uk_roadsigns_1084.jpg,No_overtaking,0.85,9,8,131,132
+uk_roadsigns_1084.jpg,Two_way_traffic_on_route_crossing_ahead,0.72,989,447,1231,660
+uk_roadsigns_1084.jpg,No_waiting_or_no_parking,0.65,497,230,740,467
+uk_roadsigns_1084.jpg,Parking_place,0.62,740,336,985,580

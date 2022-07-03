@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1060.jpg,No_stopping,0.98,986,443,1236,693
+uk_roadsigns_1060.jpg,All_vehicles_prohibited,0.95,9,7,250,249
+uk_roadsigns_1060.jpg,Tramcars_only,0.61,742,338,865,463

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1038.jpg,Solo_motorcycles_prohibited,0.93,988,445,1231,692
+uk_roadsigns_1038.jpg,Crossroads,0.93,9,9,257,225
+uk_roadsigns_1038.jpg,Stop,0.85,498,228,742,471
+uk_roadsigns_1038.jpg,Tramcars_only,0.62,746,338,866,459

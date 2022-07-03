@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1015.jpg,Maximum_speed_40,0.95,253,118,491,361
+uk_roadsigns_1015.jpg,Stop,0.86,499,229,742,469
+uk_roadsigns_1015.jpg,No_entry_for_vehicular_traffic,0.71,992,450,1230,688
+uk_roadsigns_1015.jpg,Crossroads,0.67,7,8,253,222

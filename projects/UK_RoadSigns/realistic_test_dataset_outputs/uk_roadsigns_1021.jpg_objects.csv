@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1021.jpg,No_entry_for_vehicular_traffic,0.98,255,118,498,361
+uk_roadsigns_1021.jpg,Zebra_crossing,0.75,745,339,867,446
+uk_roadsigns_1021.jpg,Try_your_brakes,0.66,989,450,1111,559
+uk_roadsigns_1021.jpg,End_of_dual_carriageway,0.52,499,230,622,337

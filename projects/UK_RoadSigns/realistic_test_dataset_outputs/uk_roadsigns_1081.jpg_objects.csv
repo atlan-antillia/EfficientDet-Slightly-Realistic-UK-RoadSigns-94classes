@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1081.jpg,Fire_station_ahead,0.81,6,10,129,115
+uk_roadsigns_1081.jpg,Double_bend_first_to_the_left,0.75,254,120,498,332
+uk_roadsigns_1081.jpg,Zebra_crossing,0.57,500,233,620,335
+uk_roadsigns_1081.jpg,Stop_police_ahead,0.52,744,338,864,460
+uk_roadsigns_1081.jpg,Two_way_traffic,0.46,989,449,1112,556

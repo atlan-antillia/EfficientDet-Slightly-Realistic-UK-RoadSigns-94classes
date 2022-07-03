@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1093.jpg,No_right_turn,0.99,9,7,130,131
+uk_roadsigns_1093.jpg,Crossroads,0.83,254,121,500,338
+uk_roadsigns_1093.jpg,Tramway,0.64,745,338,863,446
+uk_roadsigns_1093.jpg,Vehicles_carrying_explosives_prohibited,0.59,987,444,1229,692
+uk_roadsigns_1093.jpg,Tramway,0.56,496,233,622,339

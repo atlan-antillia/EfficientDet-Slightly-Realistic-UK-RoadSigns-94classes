@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1090.jpg,Stop,0.77,7,7,130,130
+uk_roadsigns_1090.jpg,Traffic_signals_ahead,0.72,990,448,1233,662
+uk_roadsigns_1090.jpg,Two_way_traffic,0.62,746,337,988,555

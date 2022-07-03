@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1047.jpg,Horse_drawn_vehicles_prohibited,0.94,7,9,249,250
+uk_roadsigns_1047.jpg,Riding_of_pedal_cycles_prohibited,0.74,499,226,621,352
+uk_roadsigns_1047.jpg,Ridden_or_accompanied_horses_prohibited,0.66,740,339,988,583
+uk_roadsigns_1047.jpg,Ford_warning,0.48,254,119,373,225

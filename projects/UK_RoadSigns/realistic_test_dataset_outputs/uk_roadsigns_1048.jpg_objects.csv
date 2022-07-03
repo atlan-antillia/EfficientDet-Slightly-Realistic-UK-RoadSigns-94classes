@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1048.jpg,No_stopping,0.99,8,7,255,253
+uk_roadsigns_1048.jpg,Pedestrians_prohibited,0.82,743,339,990,582
+uk_roadsigns_1048.jpg,T_junction,0.67,993,448,1229,662
+uk_roadsigns_1048.jpg,Traffic_merges_from_the_left,0.65,500,229,743,445

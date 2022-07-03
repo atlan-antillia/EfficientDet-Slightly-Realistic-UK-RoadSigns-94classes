@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1071.jpg,Ice_or_snowdrifts,0.98,254,120,495,333
+uk_roadsigns_1071.jpg,Low_flying_aircraft_or_sudden_aircraft_noise,0.87,741,337,986,555
+uk_roadsigns_1071.jpg,Buses_prohibited,0.81,497,227,741,471
+uk_roadsigns_1071.jpg,Stop_children_crossing_ahead,0.71,989,444,1232,691
+uk_roadsigns_1071.jpg,Ford_warning,0.7,9,9,253,223

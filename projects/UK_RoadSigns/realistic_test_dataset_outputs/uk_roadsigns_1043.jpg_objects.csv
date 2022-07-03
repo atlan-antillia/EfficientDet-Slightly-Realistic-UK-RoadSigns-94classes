@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1043.jpg,Riding_of_pedal_cycles_prohibited,0.9,743,337,982,582
+uk_roadsigns_1043.jpg,End_of_20_miles_per_hour_zone,0.83,11,6,186,247
+uk_roadsigns_1043.jpg,Minimum_speed_limit_30_miles_per_hour,0.68,497,227,621,353
+uk_roadsigns_1043.jpg,Zebra_crossing,0.56,988,449,1112,558
+uk_roadsigns_1043.jpg,All_vehicles_prohibited,0.45,253,118,378,241

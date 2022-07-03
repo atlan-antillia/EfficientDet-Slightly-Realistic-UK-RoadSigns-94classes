@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1095.jpg,Uneven_road,0.91,743,341,987,554
+uk_roadsigns_1095.jpg,No_right_turn,0.91,10,7,250,248
+uk_roadsigns_1095.jpg,Steep_descent,0.57,499,225,740,442
+uk_roadsigns_1095.jpg,Traffic_queues_likely_ahead,0.49,254,119,377,229
+uk_roadsigns_1095.jpg,Roundabout,0.42,993,449,1231,662

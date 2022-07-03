@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1058.jpg,Tramcars_only,0.66,253,119,381,243
+uk_roadsigns_1058.jpg,Ford_warning,0.57,10,8,251,221
+uk_roadsigns_1058.jpg,Slippery_road,0.48,989,448,1111,558

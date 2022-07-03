@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1067.jpg,End_of_dual_carriageway,0.93,8,8,131,114
+uk_roadsigns_1067.jpg,Riding_of_pedal_cycles_prohibited,0.77,989,448,1112,573
+uk_roadsigns_1067.jpg,Children_going_to_or_from_school,0.7,742,337,983,551
+uk_roadsigns_1067.jpg,No_entry_for_vehicular_traffic,0.58,498,230,742,473
+uk_roadsigns_1067.jpg,Uneven_road,0.49,256,119,374,225

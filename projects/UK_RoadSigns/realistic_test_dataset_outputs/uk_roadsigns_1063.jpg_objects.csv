@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1063.jpg,Maximum_speed_50,0.85,7,7,130,132
+uk_roadsigns_1063.jpg,Priority_must_be_given_to_vehicles_from_the_opposite_direction,0.74,988,447,1234,693
+uk_roadsigns_1063.jpg,Motor_vehicles_except_solo_motorcycles_prohibited,0.62,252,119,375,242
+uk_roadsigns_1063.jpg,Try_your_brakes,0.62,746,339,866,448
+uk_roadsigns_1063.jpg,Buses_and_tramcars_only,0.4,499,229,622,352

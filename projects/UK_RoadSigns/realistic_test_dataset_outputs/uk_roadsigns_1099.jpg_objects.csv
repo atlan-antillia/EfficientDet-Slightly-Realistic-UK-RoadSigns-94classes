@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1099.jpg,Give_way,0.98,253,114,495,336
+uk_roadsigns_1099.jpg,Pedestrians_prohibited,0.78,743,339,866,460
+uk_roadsigns_1099.jpg,National_speed_limit_applies,0.75,496,228,741,472
+uk_roadsigns_1099.jpg,All_vehicles_prohibited,0.69,988,446,1111,571
+uk_roadsigns_1099.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.56,9,8,255,227

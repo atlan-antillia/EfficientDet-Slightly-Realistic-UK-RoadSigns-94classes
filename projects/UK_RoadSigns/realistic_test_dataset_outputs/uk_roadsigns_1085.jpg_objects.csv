@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1085.jpg,No_entry_for_vehicular_traffic,0.99,7,8,131,130
+uk_roadsigns_1085.jpg,Parking_place,0.8,254,121,373,241
+uk_roadsigns_1085.jpg,Minimum_speed_limit_30_miles_per_hour,0.6,988,448,1110,573
+uk_roadsigns_1085.jpg,Slippery_road,0.52,502,226,741,442
+uk_roadsigns_1085.jpg,Steep_ascent,0.45,745,339,864,447

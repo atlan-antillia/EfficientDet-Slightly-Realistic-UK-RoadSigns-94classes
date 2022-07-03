@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1082.jpg,Crossroads,0.93,9,9,254,224
+uk_roadsigns_1082.jpg,No_u_turns_for_vehicular_traffic,0.84,254,118,495,359
+uk_roadsigns_1082.jpg,Wild_animals,0.66,992,450,1232,665
+uk_roadsigns_1082.jpg,Buses_prohibited,0.59,742,338,989,585

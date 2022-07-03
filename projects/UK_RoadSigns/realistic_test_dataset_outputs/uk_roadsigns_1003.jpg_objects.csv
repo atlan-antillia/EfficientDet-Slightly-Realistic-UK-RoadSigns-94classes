@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1003.jpg,No_right_turn,0.97,251,117,496,360
+uk_roadsigns_1003.jpg,End_of_20_miles_per_hour_zone,0.78,11,7,192,254
+uk_roadsigns_1003.jpg,No_u_turns_for_vehicular_traffic,0.75,741,340,987,586
+uk_roadsigns_1003.jpg,No_entry_for_vehicular_traffic,0.56,988,447,1113,573

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1008.jpg,No_right_turn,0.91,986,444,1234,695
+uk_roadsigns_1008.jpg,Stop_or_give_way_ahead,0.84,498,228,620,337
+uk_roadsigns_1008.jpg,Frail_pedestrians_likely_to_cross,0.82,250,122,497,338
+uk_roadsigns_1008.jpg,Traffic_queues_likely_ahead,0.67,746,340,863,447

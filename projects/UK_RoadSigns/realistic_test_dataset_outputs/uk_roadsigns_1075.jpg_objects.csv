@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1075.jpg,Parking_place,0.85,987,445,1233,693
+uk_roadsigns_1075.jpg,Part_time_traffic_signals_ahead,0.8,501,225,677,467
+uk_roadsigns_1075.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.69,12,7,250,220
+uk_roadsigns_1075.jpg,Try_your_brakes,0.66,744,339,867,447
+uk_roadsigns_1075.jpg,Maximum_speed_10,0.47,252,118,375,239

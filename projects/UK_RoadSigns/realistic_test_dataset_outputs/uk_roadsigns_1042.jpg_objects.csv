@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1042.jpg,Tramcars_only,0.77,990,449,1113,573
+uk_roadsigns_1042.jpg,Two_way_traffic_on_route_crossing_ahead,0.72,746,337,983,552
+uk_roadsigns_1042.jpg,Opening_or_swing_bridge,0.7,9,5,129,115
+uk_roadsigns_1042.jpg,Maximum_speed_60,0.6,494,228,742,472

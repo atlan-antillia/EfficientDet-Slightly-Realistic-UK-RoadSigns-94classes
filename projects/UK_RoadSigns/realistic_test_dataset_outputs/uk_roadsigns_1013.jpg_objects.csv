@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1013.jpg,No_u_turns_for_vehicular_traffic,0.98,10,6,252,250
+uk_roadsigns_1013.jpg,Zebra_crossing,0.57,989,447,1112,557
+uk_roadsigns_1013.jpg,No_waiting_or_no_parking,0.55,743,338,865,460

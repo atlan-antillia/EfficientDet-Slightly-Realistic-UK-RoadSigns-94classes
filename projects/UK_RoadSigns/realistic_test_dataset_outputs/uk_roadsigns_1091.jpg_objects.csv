@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1091.jpg,Hump_bridge,0.83,259,120,492,332
+uk_roadsigns_1091.jpg,No_overtaking,0.73,499,231,738,473
+uk_roadsigns_1091.jpg,Parking_place,0.47,6,6,131,132
+uk_roadsigns_1091.jpg,T_junction,0.46,989,449,1111,558
+uk_roadsigns_1091.jpg,Tunnel,0.43,746,341,865,448

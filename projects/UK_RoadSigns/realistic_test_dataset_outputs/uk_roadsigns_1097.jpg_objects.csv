@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1097.jpg,No_right_turn,0.96,498,229,744,469
+uk_roadsigns_1097.jpg,Crossroads,0.53,255,120,494,337
+uk_roadsigns_1097.jpg,Towed_caravans_prohibited,0.48,987,447,1113,572
+uk_roadsigns_1097.jpg,Opening_or_swing_bridge,0.46,12,9,129,117
+uk_roadsigns_1097.jpg,Traffic_merges_onto_the_main_carriageway,0.41,739,337,984,550

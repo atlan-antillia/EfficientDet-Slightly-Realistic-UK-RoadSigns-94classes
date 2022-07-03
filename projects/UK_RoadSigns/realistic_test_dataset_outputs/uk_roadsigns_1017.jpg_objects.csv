@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1017.jpg,Zebra_crossing,0.84,746,340,865,449
+uk_roadsigns_1017.jpg,Try_your_brakes,0.68,990,450,1112,558
+uk_roadsigns_1017.jpg,Maximum_speed_60,0.51,12,6,252,223
+uk_roadsigns_1017.jpg,Traffic_queues_likely_ahead,0.45,255,120,375,226

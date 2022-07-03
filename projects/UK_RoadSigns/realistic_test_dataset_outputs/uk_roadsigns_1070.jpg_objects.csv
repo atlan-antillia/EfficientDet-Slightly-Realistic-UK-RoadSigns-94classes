@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1070.jpg,Maximum_speed_50,0.99,9,8,253,253
+uk_roadsigns_1070.jpg,Stop,0.75,255,120,497,363
+uk_roadsigns_1070.jpg,Pedestrians_prohibited,0.73,989,447,1112,573
+uk_roadsigns_1070.jpg,Vehicles_carrying_explosives_prohibited,0.56,498,228,620,351
+uk_roadsigns_1070.jpg,Speed_camera,0.44,745,340,825,460

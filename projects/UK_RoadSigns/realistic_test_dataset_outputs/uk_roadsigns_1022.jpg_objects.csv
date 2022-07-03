@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1022.jpg,Horse_drawn_vehicles_prohibited,0.76,9,7,130,129
+uk_roadsigns_1022.jpg,National_speed_limit_applies,0.62,743,338,867,463
+uk_roadsigns_1022.jpg,Tramway,0.57,257,121,496,332
+uk_roadsigns_1022.jpg,Junction_on_a_bend,0.47,991,447,1233,661

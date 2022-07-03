@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1087.jpg,Maximum_speed_30,0.91,252,119,495,364
+uk_roadsigns_1087.jpg,Stop_or_give_way_ahead,0.88,985,450,1232,665
+uk_roadsigns_1087.jpg,Ford_warning,0.85,10,9,128,116
+uk_roadsigns_1087.jpg,Try_your_brakes,0.84,746,338,983,550
+uk_roadsigns_1087.jpg,Water_course_alongside_road,0.65,499,226,744,443

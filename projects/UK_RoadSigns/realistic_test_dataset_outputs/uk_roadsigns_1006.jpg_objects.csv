@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1006.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.9,9,8,130,115
+uk_roadsigns_1006.jpg,No_entry_for_vehicular_traffic,0.77,991,450,1232,692
+uk_roadsigns_1006.jpg,Turn_ahead_in_the_direction,0.74,256,119,377,241

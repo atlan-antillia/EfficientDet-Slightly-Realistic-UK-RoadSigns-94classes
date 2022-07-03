@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1029.jpg,No_stopping,0.98,984,442,1236,694
+uk_roadsigns_1029.jpg,Riding_of_pedal_cycles_prohibited,0.83,497,227,618,352
+uk_roadsigns_1029.jpg,Fire_station_ahead,0.82,741,334,904,579
+uk_roadsigns_1029.jpg,Fire_station_ahead,0.79,253,119,339,241
+uk_roadsigns_1029.jpg,No_right_turn,0.69,9,9,253,253

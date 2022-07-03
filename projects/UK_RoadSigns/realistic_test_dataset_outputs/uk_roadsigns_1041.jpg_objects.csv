@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1041.jpg,Speed_camera,0.75,749,341,980,544
+uk_roadsigns_1041.jpg,Horse_drawn_vehicles_prohibited,0.71,9,8,132,132
+uk_roadsigns_1041.jpg,Vehicles_carrying_explosives_prohibited,0.69,497,227,741,469
+uk_roadsigns_1041.jpg,No_waiting_or_no_parking,0.54,989,446,1110,571

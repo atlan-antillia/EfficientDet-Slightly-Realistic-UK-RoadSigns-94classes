@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1028.jpg,Loose_chippings,0.98,11,8,252,221
+uk_roadsigns_1028.jpg,Turn_left,0.82,254,118,377,241
+uk_roadsigns_1028.jpg,Zebra_crossing,0.57,988,447,1112,557
+uk_roadsigns_1028.jpg,Slippery_road,0.54,747,337,988,556
+uk_roadsigns_1028.jpg,Speed_camera,0.44,498,230,582,352

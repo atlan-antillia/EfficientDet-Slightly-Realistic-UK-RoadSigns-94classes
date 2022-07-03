@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1054.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.92,258,125,439,358
+uk_roadsigns_1054.jpg,Stop,0.88,496,226,738,467
+uk_roadsigns_1054.jpg,End_of_dual_carriageway,0.88,7,7,130,116

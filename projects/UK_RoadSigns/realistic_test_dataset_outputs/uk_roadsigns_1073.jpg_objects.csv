@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1073.jpg,Tramcars_only,0.68,990,449,1111,573
+uk_roadsigns_1073.jpg,End_of_20_miles_per_hour_zone,0.56,7,9,130,116

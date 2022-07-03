@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1019.jpg,Buses_prohibited,0.88,9,8,130,131
+uk_roadsigns_1019.jpg,Speed_camera,0.56,252,127,492,325
+uk_roadsigns_1019.jpg,Try_your_brakes,0.54,992,450,1111,557

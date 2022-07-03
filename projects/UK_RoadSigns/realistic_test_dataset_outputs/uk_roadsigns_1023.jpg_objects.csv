@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1023.jpg,Motor_vehicles_prohibited,0.99,7,7,131,130
+uk_roadsigns_1023.jpg,T_junction,0.61,989,448,1231,663
+uk_roadsigns_1023.jpg,Stop_police_ahead,0.55,499,230,620,350

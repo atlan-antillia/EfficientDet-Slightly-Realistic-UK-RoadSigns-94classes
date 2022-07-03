@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1037.jpg,Articulated_vehicles_prohibited,0.95,8,8,130,131
+uk_roadsigns_1037.jpg,Uneven_road,0.68,746,340,864,449
+uk_roadsigns_1037.jpg,End_of_dual_carriageway,0.62,253,120,377,228
+uk_roadsigns_1037.jpg,Ridden_or_accompanied_horses_prohibited,0.59,985,441,1231,690

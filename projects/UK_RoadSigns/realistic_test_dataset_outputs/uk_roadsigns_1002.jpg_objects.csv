@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1002.jpg,No_right_turn,0.99,10,6,253,251
+uk_roadsigns_1002.jpg,End_of_20_miles_per_hour_zone,0.83,256,121,339,243
+uk_roadsigns_1002.jpg,Towed_caravans_prohibited,0.82,989,444,1232,695
+uk_roadsigns_1002.jpg,Turn_left,0.8,744,338,863,460
+uk_roadsigns_1002.jpg,Maximum_speed_20,0.41,498,226,619,350

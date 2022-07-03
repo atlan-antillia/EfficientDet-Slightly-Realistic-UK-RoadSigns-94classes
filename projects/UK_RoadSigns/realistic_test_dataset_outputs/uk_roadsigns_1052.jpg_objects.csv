@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1052.jpg,Crossroads,0.87,8,9,131,116
+uk_roadsigns_1052.jpg,Loose_chippings,0.76,987,447,1231,662
+uk_roadsigns_1052.jpg,Maximum_speed_50,0.58,254,119,378,242

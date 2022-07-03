@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1096.jpg,Crossroads,0.96,10,8,255,226
+uk_roadsigns_1096.jpg,Minimum_speed_limit_30_miles_per_hour,0.76,499,226,621,354
+uk_roadsigns_1096.jpg,Pedal_cycles_only,0.67,744,339,865,461
+uk_roadsigns_1096.jpg,Buses_prohibited,0.58,255,119,376,241
+uk_roadsigns_1096.jpg,Steep_ascent,0.58,990,449,1227,660

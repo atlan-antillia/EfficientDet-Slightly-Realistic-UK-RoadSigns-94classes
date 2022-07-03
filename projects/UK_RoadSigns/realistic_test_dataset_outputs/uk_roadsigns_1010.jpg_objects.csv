@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1010.jpg,End_of_30_miles_minimum_speed_limit,0.98,9,9,130,130
+uk_roadsigns_1010.jpg,Buses_prohibited,0.69,253,119,374,240
+uk_roadsigns_1010.jpg,Vehicles_carrying_explosives_prohibited,0.56,743,339,865,462
+uk_roadsigns_1010.jpg,Water_course_alongside_road,0.4,499,230,619,337

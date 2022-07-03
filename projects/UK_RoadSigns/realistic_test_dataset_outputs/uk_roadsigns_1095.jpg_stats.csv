@@ -1,0 +1,6 @@
+id, class, count
+1,Uneven_road,1
+2,No_right_turn,1
+3,Steep_descent,1
+4,Traffic_queues_likely_ahead,1
+5,Roundabout,1

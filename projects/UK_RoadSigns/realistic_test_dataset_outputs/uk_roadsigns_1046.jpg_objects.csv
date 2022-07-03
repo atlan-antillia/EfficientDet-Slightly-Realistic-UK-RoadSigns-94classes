@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1046.jpg,Double_bend_first_to_the_left,0.95,9,10,131,116
+uk_roadsigns_1046.jpg,Water_course_alongside_road,0.61,256,122,376,225
+uk_roadsigns_1046.jpg,Tunnel,0.5,988,445,1233,661
+uk_roadsigns_1046.jpg,Vehicles_carrying_explosives_prohibited,0.42,498,228,620,350
