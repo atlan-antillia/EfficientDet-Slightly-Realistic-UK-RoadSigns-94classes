@@ -258,7 +258,7 @@ python ../../ModelTrainer.py ^
 
 <tr>
 <td>
---eval_batch_size</td><td>4</td>
+--eval_batch_size</td><td>1</td>
 </tr>
 <tr>
 <td>
