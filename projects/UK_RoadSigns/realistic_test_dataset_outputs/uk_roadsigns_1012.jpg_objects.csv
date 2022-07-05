@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1012.jpg,Maximum_speed_30,0.99,7,5,252,251
-uk_roadsigns_1012.jpg,Part_time_traffic_signals_ahead,0.88,748,340,923,581
-uk_roadsigns_1012.jpg,Water_course_alongside_road,0.78,989,451,1234,664
-uk_roadsigns_1012.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.75,260,117,499,330
-uk_roadsigns_1012.jpg,Two_way_traffic_on_route_crossing_ahead,0.64,501,231,622,337
+uk_roadsigns_1012.jpg,Maximum_speed_30,0.92,9,6,254,253
+uk_roadsigns_1012.jpg,Water_course_alongside_road,0.8,990,449,1233,661
+uk_roadsigns_1012.jpg,Part_time_traffic_signals_ahead,0.68,748,341,924,581
+uk_roadsigns_1012.jpg,Two_way_traffic_on_route_crossing_ahead,0.63,500,230,620,336
+uk_roadsigns_1012.jpg,Slippery_road,0.47,258,116,497,330

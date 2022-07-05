@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1007.jpg,No_waiting_or_no_parking,0.98,8,7,252,252
-uk_roadsigns_1007.jpg,Tramway,0.81,500,227,743,446
-uk_roadsigns_1007.jpg,Zebra_crossing,0.52,255,120,376,225
-uk_roadsigns_1007.jpg,Stop_police_ahead,0.52,743,340,867,461
-uk_roadsigns_1007.jpg,Water_course_alongside_road,0.48,991,451,1109,556
+uk_roadsigns_1007.jpg,No_waiting_or_no_parking,0.98,10,7,255,254
+uk_roadsigns_1007.jpg,Tramway,0.84,497,226,739,446
+uk_roadsigns_1007.jpg,Stop_police_ahead,0.77,743,337,866,459
+uk_roadsigns_1007.jpg,Water_course_alongside_road,0.66,989,450,1108,557
+uk_roadsigns_1007.jpg,Road_works,0.47,255,118,375,225

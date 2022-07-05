@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1027.jpg,Frail_pedestrians_likely_to_cross,0.94,9,8,129,116
-uk_roadsigns_1027.jpg,No_overtaking,0.73,497,229,740,470
-uk_roadsigns_1027.jpg,End_of_20_miles_per_hour_zone,0.51,992,452,1078,572
+uk_roadsigns_1027.jpg,No_overtaking,0.98,500,224,739,471
+uk_roadsigns_1027.jpg,Pedestrians_ahead,0.85,7,6,131,114
+uk_roadsigns_1027.jpg,Two_way_traffic,0.66,256,121,492,333
+uk_roadsigns_1027.jpg,Traffic_merges_onto_the_main_carriageway,0.6,742,337,987,556
+uk_roadsigns_1027.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.45,992,454,1076,571

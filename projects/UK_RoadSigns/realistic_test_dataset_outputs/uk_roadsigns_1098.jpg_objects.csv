@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1098.jpg,All_vehicles_prohibited,0.82,253,117,498,363
-uk_roadsigns_1098.jpg,Tramway,0.7,990,451,1109,557
-uk_roadsigns_1098.jpg,Buses_prohibited,0.67,11,8,253,252
-uk_roadsigns_1098.jpg,Tramway,0.64,745,338,862,446
-uk_roadsigns_1098.jpg,Traffic_merges_onto_the_main_carriageway,0.49,497,228,743,447
+uk_roadsigns_1098.jpg,All_vehicles_prohibited,0.94,254,116,501,363
+uk_roadsigns_1098.jpg,Stop_children_crossing_ahead,0.93,11,9,255,250
+uk_roadsigns_1098.jpg,Traffic_merges_onto_the_main_carriageway,0.61,498,226,743,445
+uk_roadsigns_1098.jpg,Wild_animals,0.5,989,449,1110,557
+uk_roadsigns_1098.jpg,Tramway,0.43,747,338,862,446

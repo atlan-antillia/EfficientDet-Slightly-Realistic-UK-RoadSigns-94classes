@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1025.jpg,Minimum_speed_limit_30_miles_per_hour,0.99,9,8,249,247
-uk_roadsigns_1025.jpg,No_entry_for_vehicular_traffic,0.95,256,120,377,240
-uk_roadsigns_1025.jpg,Fire_station_ahead,0.9,504,224,668,470
-uk_roadsigns_1025.jpg,Speed_camera,0.82,975,453,1231,655
+uk_roadsigns_1025.jpg,Minimum_speed_limit_30_miles_per_hour,0.98,8,5,249,248
+uk_roadsigns_1025.jpg,Fire_station_ahead,0.96,500,229,667,471
+uk_roadsigns_1025.jpg,No_entry_for_vehicular_traffic,0.9,258,120,377,238
+uk_roadsigns_1025.jpg,Speed_camera,0.81,989,453,1232,656
+uk_roadsigns_1025.jpg,Low_flying_aircraft_or_sudden_aircraft_noise,0.57,742,336,866,446

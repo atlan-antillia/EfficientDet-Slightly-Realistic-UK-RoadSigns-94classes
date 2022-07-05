@@ -1,5 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1057.jpg,Double_bend_first_to_the_left,0.88,7,10,131,116
-uk_roadsigns_1057.jpg,Stop_police_ahead,0.73,744,339,983,581
-uk_roadsigns_1057.jpg,Traffic_signals_ahead,0.73,256,120,376,225
-uk_roadsigns_1057.jpg,Tramcars_only,0.41,989,448,1072,571
+uk_roadsigns_1057.jpg,Stop_police_ahead,0.74,745,336,985,580
+uk_roadsigns_1057.jpg,Fire_station_ahead,0.67,992,450,1075,570
+uk_roadsigns_1057.jpg,Traffic_signals_ahead,0.64,254,118,375,226
+uk_roadsigns_1057.jpg,Two_way_traffic,0.56,8,9,132,117

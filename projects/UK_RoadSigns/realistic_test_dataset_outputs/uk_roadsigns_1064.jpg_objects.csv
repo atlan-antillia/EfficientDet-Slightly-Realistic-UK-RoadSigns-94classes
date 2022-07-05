@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1064.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.97,12,7,194,249
-uk_roadsigns_1064.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.94,743,341,928,576
-uk_roadsigns_1064.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.88,253,119,499,334
-uk_roadsigns_1064.jpg,Uneven_road,0.86,984,448,1227,663
-uk_roadsigns_1064.jpg,Tramway,0.48,496,229,621,336
+uk_roadsigns_1064.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.95,12,9,198,249
+uk_roadsigns_1064.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.92,743,344,929,579
+uk_roadsigns_1064.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.91,254,119,502,335
+uk_roadsigns_1064.jpg,Uneven_road,0.67,986,445,1230,662
+uk_roadsigns_1064.jpg,Ice_or_snowdrifts,0.61,499,230,621,336

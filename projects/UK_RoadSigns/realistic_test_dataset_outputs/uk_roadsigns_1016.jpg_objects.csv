@@ -1,5 +1,8 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1016.jpg,Low_flying_aircraft_or_sudden_aircraft_noise,0.96,10,7,253,225
-uk_roadsigns_1016.jpg,Loose_chippings,0.91,501,226,739,442
-uk_roadsigns_1016.jpg,End_of_30_miles_minimum_speed_limit,0.54,254,120,374,237
-uk_roadsigns_1016.jpg,Zebra_crossing,0.44,989,448,1112,557
+uk_roadsigns_1016.jpg,End_of_30_miles_minimum_speed_limit,0.93,253,121,372,240
+uk_roadsigns_1016.jpg,Low_flying_aircraft_or_sudden_aircraft_noise,0.92,10,8,252,224
+uk_roadsigns_1016.jpg,Loose_chippings,0.9,503,226,738,443
+uk_roadsigns_1016.jpg,Other_dangers,0.66,744,338,866,447
+uk_roadsigns_1016.jpg,Road_works,0.64,988,450,1111,557
+uk_roadsigns_1016.jpg,Loose_chippings,0.44,291,1241,346,1257
+uk_roadsigns_1016.jpg,Loose_chippings,0.4,263,1222,317,1275

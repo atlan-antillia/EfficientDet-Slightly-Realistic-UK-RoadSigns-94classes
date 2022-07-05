@@ -1,5 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1011.jpg,National_speed_limit_applies,0.9,495,228,744,471
-uk_roadsigns_1011.jpg,National_speed_limit_applies,0.62,987,447,1111,573
-uk_roadsigns_1011.jpg,Try_your_brakes,0.47,256,120,373,227
-uk_roadsigns_1011.jpg,Part_time_traffic_signals_ahead,0.45,745,341,830,460
+uk_roadsigns_1011.jpg,National_speed_limit_applies,0.98,500,225,744,472
+uk_roadsigns_1011.jpg,National_speed_limit_applies,0.95,991,447,1112,570
+uk_roadsigns_1011.jpg,Wild_animals,0.85,11,8,256,224
+uk_roadsigns_1011.jpg,End_of_20_miles_per_hour_zone,0.5,746,341,832,460

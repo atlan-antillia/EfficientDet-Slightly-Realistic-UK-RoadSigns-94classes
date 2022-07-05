@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1050.jpg,Articulated_vehicles_prohibited,0.98,6,8,132,132
-uk_roadsigns_1050.jpg,End_of_dual_carriageway,0.94,498,223,742,440
-uk_roadsigns_1050.jpg,No_waiting_or_no_parking,0.5,742,338,867,462
-uk_roadsigns_1050.jpg,Traffic_queues_likely_ahead,0.44,252,122,497,338
+uk_roadsigns_1050.jpg,Articulated_vehicles_prohibited,0.95,9,8,132,131
+uk_roadsigns_1050.jpg,End_of_dual_carriageway,0.89,501,227,739,441
+uk_roadsigns_1050.jpg,No_left_turn,0.78,743,338,868,461
+uk_roadsigns_1050.jpg,Traffic_queues_likely_ahead,0.63,247,121,494,336
+uk_roadsigns_1050.jpg,Two_way_traffic_on_route_crossing_ahead,0.43,990,450,1110,557

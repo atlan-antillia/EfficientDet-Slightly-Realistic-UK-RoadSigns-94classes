@@ -1,4 +1,6 @@
 id, class, count
-1,Entrance_20_miles_per_hour_speed_limit_zone,1
-2,Stop,1
-3,End_of_dual_carriageway,1
+1,Stop,1
+2,Entrance_20_miles_per_hour_speed_limit_zone,1
+3,Parking_place,1
+4,Road_narrows_on_the_right,1
+5,End_of_dual_carriageway,1

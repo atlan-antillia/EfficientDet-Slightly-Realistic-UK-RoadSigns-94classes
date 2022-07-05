@@ -1,4 +1,6 @@
 id, class, count
-1,Frail_pedestrians_likely_to_cross,1
-2,No_overtaking,1
-3,End_of_20_miles_per_hour_zone,1
+1,No_overtaking,1
+2,Pedestrians_ahead,1
+3,Two_way_traffic,1
+4,Traffic_merges_onto_the_main_carriageway,1
+5,Entrance_20_miles_per_hour_speed_limit_zone,1

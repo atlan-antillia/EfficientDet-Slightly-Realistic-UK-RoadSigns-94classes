@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1089.jpg,No_entry_for_vehicular_traffic,0.99,9,8,253,252
-uk_roadsigns_1089.jpg,No_stopping,0.96,989,449,1114,573
-uk_roadsigns_1089.jpg,National_speed_limit_applies,0.95,251,119,499,364
+uk_roadsigns_1089.jpg,No_entry_for_vehicular_traffic,0.99,10,8,255,252
+uk_roadsigns_1089.jpg,National_speed_limit_applies,0.98,254,113,499,364
+uk_roadsigns_1089.jpg,No_stopping,0.96,990,448,1113,573
+uk_roadsigns_1089.jpg,Falling_or_fallen_rocks,0.73,743,340,866,449
+uk_roadsigns_1089.jpg,Tunnel,0.69,499,231,621,337

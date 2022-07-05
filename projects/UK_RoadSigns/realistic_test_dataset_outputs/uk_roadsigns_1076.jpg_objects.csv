@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1076.jpg,Motor_vehicles_except_solo_motorcycles_prohibited,0.99,9,8,254,251
-uk_roadsigns_1076.jpg,Traffic_queues_likely_ahead,0.72,741,339,863,447
-uk_roadsigns_1076.jpg,Two_way_traffic_on_route_crossing_ahead,0.61,990,451,1112,557
-uk_roadsigns_1076.jpg,Maximum_speed_30,0.4,495,226,738,469
+uk_roadsigns_1076.jpg,Motor_vehicles_except_solo_motorcycles_prohibited,0.97,8,7,254,253
+uk_roadsigns_1076.jpg,Maximum_speed_30,0.83,497,225,739,470
+uk_roadsigns_1076.jpg,Tunnel,0.66,254,119,374,226
+uk_roadsigns_1076.jpg,Two_way_traffic_on_route_crossing_ahead,0.64,989,449,1112,556
+uk_roadsigns_1076.jpg,Traffic_queues_likely_ahead,0.54,740,339,864,448

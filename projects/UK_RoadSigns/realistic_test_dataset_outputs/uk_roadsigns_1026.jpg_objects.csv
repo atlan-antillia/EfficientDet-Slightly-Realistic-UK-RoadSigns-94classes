@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1026.jpg,Tramway,0.8,994,450,1234,661
-uk_roadsigns_1026.jpg,Vehicles_carrying_explosives_prohibited,0.79,498,228,618,353
-uk_roadsigns_1026.jpg,Zebra_crossing,0.59,254,120,376,227
-uk_roadsigns_1026.jpg,Double_bend_first_to_the_left,0.54,9,7,253,222
+uk_roadsigns_1026.jpg,Vehicles_carrying_explosives_prohibited,0.92,501,227,619,350
+uk_roadsigns_1026.jpg,Zebra_crossing,0.87,251,120,374,228
+uk_roadsigns_1026.jpg,Tramway,0.83,990,445,1235,663
+uk_roadsigns_1026.jpg,Maximum_speed_30,0.82,744,336,988,580
+uk_roadsigns_1026.jpg,Two_way_traffic,0.65,8,10,251,220

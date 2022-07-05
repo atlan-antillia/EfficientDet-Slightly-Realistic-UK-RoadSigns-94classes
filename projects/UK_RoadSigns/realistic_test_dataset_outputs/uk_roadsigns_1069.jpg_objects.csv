@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1069.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.93,7,7,256,223
-uk_roadsigns_1069.jpg,Water_course_alongside_road,0.69,745,338,984,553
-uk_roadsigns_1069.jpg,All_vehicles_prohibited,0.64,251,120,492,358
-uk_roadsigns_1069.jpg,Steep_ascent,0.47,990,449,1113,559
+uk_roadsigns_1069.jpg,Pedestrians_prohibited,0.97,253,119,495,360
+uk_roadsigns_1069.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.9,8,10,256,227
+uk_roadsigns_1069.jpg,Tunnel,0.69,992,450,1111,557
+uk_roadsigns_1069.jpg,Soft_verges,0.63,747,336,984,552
+uk_roadsigns_1069.jpg,Maximum_speed_60,0.47,495,230,621,352

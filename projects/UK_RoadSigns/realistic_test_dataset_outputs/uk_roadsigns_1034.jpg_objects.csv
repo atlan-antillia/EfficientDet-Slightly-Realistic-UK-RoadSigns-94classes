@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1034.jpg,Crossroads,0.88,9,8,129,115
-uk_roadsigns_1034.jpg,Zebra_crossing,0.84,746,339,865,449
-uk_roadsigns_1034.jpg,Maximum_speed_50,0.59,252,118,376,240
-uk_roadsigns_1034.jpg,No_entry_for_vehicular_traffic,0.42,987,447,1233,694
+uk_roadsigns_1034.jpg,Articulated_vehicles_prohibited,0.99,990,450,1233,694
+uk_roadsigns_1034.jpg,Zebra_crossing,0.88,744,340,866,449
+uk_roadsigns_1034.jpg,Riverbank_or_quayside,0.8,497,228,743,450
+uk_roadsigns_1034.jpg,Maximum_speed_60,0.73,253,116,376,240
+uk_roadsigns_1034.jpg,Crossroads,0.45,9,7,129,117

@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1062.jpg,Solo_motorcycles_prohibited,0.96,739,338,983,582
-uk_roadsigns_1062.jpg,Stop_or_give_way_ahead,0.93,255,118,498,337
-uk_roadsigns_1062.jpg,Double_bend_first_to_the_left,0.9,6,8,132,116
-uk_roadsigns_1062.jpg,Try_your_brakes,0.76,498,230,622,337
-uk_roadsigns_1062.jpg,No_entry_for_vehicular_traffic,0.62,989,448,1108,571
+uk_roadsigns_1062.jpg,Solo_motorcycles_prohibited,0.97,744,333,985,580
+uk_roadsigns_1062.jpg,Stop_or_give_way_ahead,0.91,255,117,497,337
+uk_roadsigns_1062.jpg,No_entry_for_vehicular_traffic,0.86,992,449,1111,570
+uk_roadsigns_1062.jpg,Traffic_merges_onto_the_main_carriageway,0.63,5,6,130,117
+uk_roadsigns_1062.jpg,Try_your_brakes,0.56,499,230,621,338

@@ -1,11 +1,11 @@
-# EfficientDet--RoadSigns-94classes
-Training and detection RoadSigns in US by EfficientDet
+# EfficientDet-UK-RoadSigns-94classes
+Training and detection RoadSigns in UK by EfficientDet
 
 <h2>
-EfficientDet UK RoadSigns 94classes (Updated: 2022/07/04)
+EfficientDet UK RoadSigns 94classes (Updated: 2022/07/05)
 </h2>
 
-This is a simple python example to train and detect RoadSigns in US based on 
+This is a simple python example to train and detect RoadSigns in UK based on 
 <a href="https://github.com/google/automl/tree/master/efficientdet">Google Brain AutoML efficientdet</a>.
 <li>
 Modified to use tensorflow 2.8.0 on Windows11. (2022/06/17)<br>
@@ -19,7 +19,7 @@ Modified to use the bat files in ./projects/UK_RoadSigns/.(2022/06/14)<br>
 </li>
 
 <li>
-Modified to use mixed_size tfrecord dataset.(2022/06/28)<br>
+Modified to use mixed_size tfrecord dataset.(2022/07/05)<br>
 </li>
 <br>
 <h2>
@@ -94,7 +94,7 @@ Please run the following command to install python packages for this project.<br
 
 <h3>2.3 Download TFRecord dataset</h3>
  You can download TRecord_UK_RoadSigns 94classes dataset from 
-<a href="https://drive.google.com/file/d/1ULEo8ImTdX6GdKW7vQKKRomyElGMXzQ2/view?usp=sharing">UK_RoadSigns_94classes</a>
+<a href="https://drive.google.com/file/d/1yyOT8Sy7PJn4QrAmQGxt1LD5uMSB0D5c/view?usp=sharing">UK_RoadSigns_94classes (Updated:2022/07/05)</a>
 <br>
 The downloaded train and valid dataset must be placed in ./projects/UK_RoadSigns folder.
 <pre>
@@ -103,6 +103,17 @@ The downloaded train and valid dataset must be placed in ./projects/UK_RoadSigns
         ├─train
         └─valid
 </pre>
+The train and valid folders contain the following tfrecord files:<br>
+<pre>
+    └─UK_RoadSigns
+        ├─train
+        │  └─mixed_size_train.tfrecord
+        │  └─train.tfrecord
+        └─valid
+           └─mixed_size_valid.tfrecord
+           └─valid.tfrecord
+</pre>
+We have added <b>mixed_size_train.tfrecord</b> and <b>mixed_size_valid.tfrecord</b> to improve inference accuracy for realistic_test_dataset (2022/07/05).<br>
 <br>
 
 
@@ -202,8 +213,8 @@ python ../../ModelTrainer.py ^
   --early_stopping=map ^
   --patience=10 ^
   --eval_batch_size=1 ^
-  --eval_samples=800  ^
-  --num_examples_per_epoch=1200 ^
+  --eval_samples=1000  ^
+  --num_examples_per_epoch=2000 ^
   --num_epochs=160
 </pre>
 
@@ -262,11 +273,11 @@ python ../../ModelTrainer.py ^
 </tr>
 <tr>
 <td>
---eval_samples</td><td>800</td>
+--eval_samples</td><td>1000</td>
 </tr>
 <tr>
 <td>
---num_examples_per_epoch</td><td>1200</td>
+--num_examples_per_epoch</td><td>2000</td>
 </tr>
 <tr>
 <td>
@@ -377,20 +388,20 @@ python ../../ModelTrainer.py ^
 <br>
 <b>Training console output at epoch 62</b>
 <br>
-<img src="./asset/coco_metrics_console_at_epoch160_tf2.8.0_0704.png" width="1024" height="auto">
+<img src="./asset/coco_metrics_console_at_epoch65_tf2.8.0_0705.png" width="1024" height="auto">
 <br>
 <br>
 <b><a href="./projects/UK_RoadSigns/eval/coco_metrics.csv">COCO meticss</a></b><br>
-<img src="./asset/coco_metrics_at_epoch160_tf2.8.0_0704.png" width="1024" height="auto">
+<img src="./asset/coco_metrics_at_epoch65_tf2.8.0_0705.png" width="1024" height="auto">
 <br>
 <br>
 <b><a href="./projects/UK_RoadSigns/eval/train_losses.csv">Train losses</a></b><br>
-<img src="./asset/train_losses_at_epoch160_tf2.8.0_0704.png" width="1024" height="auto">
+<img src="./asset/train_losses_at_epoch65_tf2.8.0_0705.png" width="1024" height="auto">
 <br>
 <br>
 
 <b><a href="./projects/UK_RoadSigns/eval/coco_ap_per_class.csv">COCO ap per class</a></b><br>
-<img src="./asset/coco_ap_per_class_at_epoch160_tf2.8.0_0704.png" width="1024" height="auto">
+<img src="./asset/coco_ap_per_class_at_epoch65_tf2.8.0_0705.png" width="1024" height="auto">
 <br>
 <br>
 <h3>
@@ -531,5 +542,5 @@ The 3_inference.bat computes also the COCO metrics(f, map, mar) to the <b>realis
 <a href="./projects/UK_RoadSigns/realistic_test_dataset_outputs/prediction_f_map_mar.csv">prediction_f_map_mar.csv</a>
 
 <br>
-<img src="./asset/coco_metrics_console_test_dataset_at_epoch160_tf2.8.0_0704.png" width="740" height="auto"><br>
+<img src="./asset/coco_metrics_console_test_dataset_at_epoch65_tf2.8.0_0705.png" width="740" height="auto"><br>
 

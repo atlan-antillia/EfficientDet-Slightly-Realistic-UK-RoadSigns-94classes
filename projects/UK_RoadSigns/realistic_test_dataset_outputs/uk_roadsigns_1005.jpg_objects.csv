@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1005.jpg,No_u_turns_for_vehicular_traffic,0.98,10,7,254,252
-uk_roadsigns_1005.jpg,Tramcars_only,0.92,741,338,989,582
-uk_roadsigns_1005.jpg,No_overtaking,0.62,496,231,742,472
-uk_roadsigns_1005.jpg,T_junction,0.47,992,447,1229,662
-uk_roadsigns_1005.jpg,Towed_caravans_prohibited,0.45,252,119,374,240
+uk_roadsigns_1005.jpg,No_u_turns_for_vehicular_traffic,0.99,9,9,254,253
+uk_roadsigns_1005.jpg,No_overtaking,0.98,498,228,743,473
+uk_roadsigns_1005.jpg,Tramcars_only,0.95,744,338,990,582
+uk_roadsigns_1005.jpg,Motor_vehicles_except_solo_motorcycles_prohibited,0.87,254,119,376,239
+uk_roadsigns_1005.jpg,T_junction,0.46,992,448,1230,660

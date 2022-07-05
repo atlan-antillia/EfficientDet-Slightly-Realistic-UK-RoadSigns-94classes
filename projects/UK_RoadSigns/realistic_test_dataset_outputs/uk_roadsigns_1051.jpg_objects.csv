@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1051.jpg,Mini_roundabout,0.99,9,7,250,249
-uk_roadsigns_1051.jpg,Stop_or_give_way_ahead,0.87,991,448,1112,557
-uk_roadsigns_1051.jpg,No_right_turn,0.85,255,119,378,242
-uk_roadsigns_1051.jpg,End_of_30_miles_minimum_speed_limit,0.67,498,227,739,468
-uk_roadsigns_1051.jpg,Traffic_signals_ahead,0.51,743,339,862,446
+uk_roadsigns_1051.jpg,Mini_roundabout,0.98,9,6,251,248
+uk_roadsigns_1051.jpg,End_of_30_miles_minimum_speed_limit,0.98,501,226,738,468
+uk_roadsigns_1051.jpg,Stop_or_give_way_ahead,0.87,991,449,1111,557
+uk_roadsigns_1051.jpg,No_right_turn,0.72,254,118,378,241
+uk_roadsigns_1051.jpg,Traffic_signals_ahead,0.52,745,336,864,445

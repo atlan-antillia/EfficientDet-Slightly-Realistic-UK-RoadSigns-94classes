@@ -1,4 +1,6 @@
 id, class, count
 1,Motor_vehicles_prohibited,1
-2,T_junction,1
-3,Stop_police_ahead,1
+2,Stop_children_crossing_ahead,1
+3,Maximum_speed_30,1
+4,T_junction,1
+5,Side_winds,1

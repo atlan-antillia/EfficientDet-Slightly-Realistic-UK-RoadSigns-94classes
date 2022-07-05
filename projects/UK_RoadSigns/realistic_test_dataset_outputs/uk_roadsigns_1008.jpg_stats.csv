@@ -1,5 +1,6 @@
 id, class, count
 1,No_right_turn,1
-2,Stop_or_give_way_ahead,1
+2,Pedestrians_ahead,1
 3,Frail_pedestrians_likely_to_cross,1
-4,Traffic_queues_likely_ahead,1
+4,Stop_or_give_way_ahead,1
+5,Traffic_queues_likely_ahead,1

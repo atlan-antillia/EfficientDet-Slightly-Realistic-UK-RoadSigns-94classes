@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1039.jpg,Maximum_speed_10,0.98,10,7,253,254
-uk_roadsigns_1039.jpg,End_of_20_miles_per_hour_zone,0.94,502,226,672,471
-uk_roadsigns_1039.jpg,Stop_or_give_way_ahead,0.86,255,123,496,337
-uk_roadsigns_1039.jpg,Turn_ahead_in_the_direction,0.83,987,444,1235,697
-uk_roadsigns_1039.jpg,Vehicles_carrying_explosives_prohibited,0.8,741,338,986,580
+uk_roadsigns_1039.jpg,Vehicles_carrying_explosives_prohibited,0.97,747,335,987,579
+uk_roadsigns_1039.jpg,Maximum_speed_10,0.96,9,9,253,255
+uk_roadsigns_1039.jpg,Turn_ahead_in_the_direction,0.95,988,444,1235,697
+uk_roadsigns_1039.jpg,End_of_20_miles_per_hour_zone,0.93,503,231,671,472
+uk_roadsigns_1039.jpg,Stop_or_give_way_ahead,0.88,256,122,495,336

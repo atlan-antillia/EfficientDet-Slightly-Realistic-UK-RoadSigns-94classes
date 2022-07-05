@@ -1,5 +1,7 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1035.jpg,Buses_and_tramcars_only,0.84,9,9,130,133
-uk_roadsigns_1035.jpg,Maximum_speed_40,0.71,252,118,374,239
-uk_roadsigns_1035.jpg,Vehicles_carrying_explosives_prohibited,0.63,742,339,868,462
-uk_roadsigns_1035.jpg,Priority_must_be_given_to_vehicles_from_the_opposite_direction,0.63,498,228,622,353
+uk_roadsigns_1035.jpg,Vehicles_carrying_explosives_prohibited,0.93,743,337,869,462
+uk_roadsigns_1035.jpg,Priority_must_be_given_to_vehicles_from_the_opposite_direction,0.92,501,227,621,351
+uk_roadsigns_1035.jpg,Tramcars_only,0.79,7,6,129,131
+uk_roadsigns_1035.jpg,Maximum_speed_40,0.79,251,117,374,239
+uk_roadsigns_1035.jpg,Traffic_merges_from_the_left,0.46,990,447,1107,555
+uk_roadsigns_1035.jpg,Loose_chippings,0.42,292,1243,347,1258

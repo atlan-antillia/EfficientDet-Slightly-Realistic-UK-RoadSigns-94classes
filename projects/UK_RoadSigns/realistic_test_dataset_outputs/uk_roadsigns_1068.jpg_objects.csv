@@ -1,3 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1068.jpg,One_way_traffic,0.66,6,7,131,132
-uk_roadsigns_1068.jpg,No_u_turns_for_vehicular_traffic,0.63,988,446,1233,694
+uk_roadsigns_1068.jpg,No_u_turns_for_vehicular_traffic,0.98,993,445,1233,692
+uk_roadsigns_1068.jpg,Parking_place,0.98,7,7,130,133
+uk_roadsigns_1068.jpg,Solo_motorcycles_prohibited,0.85,255,119,376,242
+uk_roadsigns_1068.jpg,Articulated_vehicles_prohibited,0.79,501,227,621,351
+uk_roadsigns_1068.jpg,Side_winds,0.76,743,338,987,553

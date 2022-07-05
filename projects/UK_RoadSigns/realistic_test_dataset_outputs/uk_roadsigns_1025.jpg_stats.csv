@@ -1,5 +1,6 @@
 id, class, count
 1,Minimum_speed_limit_30_miles_per_hour,1
-2,No_entry_for_vehicular_traffic,1
-3,Fire_station_ahead,1
+2,Fire_station_ahead,1
+3,No_entry_for_vehicular_traffic,1
 4,Speed_camera,1
+5,Low_flying_aircraft_or_sudden_aircraft_noise,1

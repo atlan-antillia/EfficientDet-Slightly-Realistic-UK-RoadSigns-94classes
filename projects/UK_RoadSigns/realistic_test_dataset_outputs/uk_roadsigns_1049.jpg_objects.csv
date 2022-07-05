@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1049.jpg,Junction_on_a_bend,0.97,10,8,249,220
-uk_roadsigns_1049.jpg,Two_way_traffic_on_route_crossing_ahead,0.73,499,229,744,447
-uk_roadsigns_1049.jpg,Tramway,0.65,746,340,864,447
-uk_roadsigns_1049.jpg,Towed_caravans_prohibited,0.58,251,119,378,242
+uk_roadsigns_1049.jpg,Junction_on_a_bend,0.94,8,8,250,222
+uk_roadsigns_1049.jpg,No_u_turns_for_vehicular_traffic,0.94,254,118,377,241
+uk_roadsigns_1049.jpg,Other_dangers,0.91,991,449,1224,663
+uk_roadsigns_1049.jpg,Two_way_traffic_on_route_crossing_ahead,0.8,499,229,743,445
+uk_roadsigns_1049.jpg,Wild_animals,0.46,747,340,865,445

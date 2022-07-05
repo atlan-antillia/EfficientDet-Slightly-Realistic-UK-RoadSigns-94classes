@@ -1,4 +1,6 @@
 id, class, count
-1,Maximum_speed_30,1
-2,Water_course_alongside_road,1
-3,Part_time_traffic_signals_ahead,1
+1,Water_course_alongside_road,1
+2,Maximum_speed_30,1
+3,Road_narrows_on_the_right,1
+4,Part_time_traffic_signals_ahead,1
+5,End_of_dual_carriageway,1

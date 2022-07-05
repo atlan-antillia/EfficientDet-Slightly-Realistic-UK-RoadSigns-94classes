@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1065.jpg,Maximum_speed_30,0.99,6,6,130,130
-uk_roadsigns_1065.jpg,Water_course_alongside_road,0.7,992,448,1227,663
-uk_roadsigns_1065.jpg,Part_time_traffic_signals_ahead,0.64,501,232,590,355
+uk_roadsigns_1065.jpg,Water_course_alongside_road,0.89,992,447,1227,659
+uk_roadsigns_1065.jpg,Maximum_speed_30,0.7,8,7,131,132
+uk_roadsigns_1065.jpg,Road_narrows_on_the_right,0.65,746,337,983,552
+uk_roadsigns_1065.jpg,Part_time_traffic_signals_ahead,0.54,500,231,590,356
+uk_roadsigns_1065.jpg,End_of_dual_carriageway,0.44,254,121,378,228

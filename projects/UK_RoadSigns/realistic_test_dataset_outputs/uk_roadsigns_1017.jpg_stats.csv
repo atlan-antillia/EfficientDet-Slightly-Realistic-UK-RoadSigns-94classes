@@ -1,5 +1,6 @@
 id, class, count
-1,Zebra_crossing,1
-2,Try_your_brakes,1
-3,Maximum_speed_60,1
-4,Traffic_queues_likely_ahead,1
+1,Horse_drawn_vehicles_prohibited,1
+2,Zebra_crossing,1
+3,Roundabout,1
+4,Two_way_traffic,1
+5,Try_your_brakes,1

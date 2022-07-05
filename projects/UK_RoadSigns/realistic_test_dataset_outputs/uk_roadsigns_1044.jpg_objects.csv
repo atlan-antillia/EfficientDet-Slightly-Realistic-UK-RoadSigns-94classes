@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1044.jpg,Frail_pedestrians_likely_to_cross,0.95,8,8,130,116
-uk_roadsigns_1044.jpg,Fire_station_ahead,0.93,984,444,1155,693
-uk_roadsigns_1044.jpg,Hump_bridge,0.82,258,119,493,333
-uk_roadsigns_1044.jpg,Part_time_traffic_signals_ahead,0.7,745,333,836,460
+uk_roadsigns_1044.jpg,Cyclists_and_pedestrians_only,0.97,500,232,621,352
+uk_roadsigns_1044.jpg,Fire_station_ahead,0.97,993,446,1157,695
+uk_roadsigns_1044.jpg,Frail_pedestrians_likely_to_cross,0.92,8,7,131,116
+uk_roadsigns_1044.jpg,Hump_bridge,0.89,254,116,492,334
+uk_roadsigns_1044.jpg,Part_time_traffic_signals_ahead,0.4,744,336,836,461

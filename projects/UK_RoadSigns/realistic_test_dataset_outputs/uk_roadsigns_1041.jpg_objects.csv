@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1041.jpg,Speed_camera,0.75,749,341,980,544
-uk_roadsigns_1041.jpg,Horse_drawn_vehicles_prohibited,0.71,9,8,132,132
-uk_roadsigns_1041.jpg,Vehicles_carrying_explosives_prohibited,0.69,497,227,741,469
-uk_roadsigns_1041.jpg,No_waiting_or_no_parking,0.54,989,446,1110,571
+uk_roadsigns_1041.jpg,Vehicles_carrying_explosives_prohibited,0.97,502,226,742,469
+uk_roadsigns_1041.jpg,Speed_camera,0.79,751,336,981,542
+uk_roadsigns_1041.jpg,Riding_of_pedal_cycles_prohibited,0.75,11,9,131,132
+uk_roadsigns_1041.jpg,Pedestrians_prohibited,0.52,991,448,1111,571
+uk_roadsigns_1041.jpg,Traffic_merges_onto_the_main_carriageway,0.5,254,119,376,226

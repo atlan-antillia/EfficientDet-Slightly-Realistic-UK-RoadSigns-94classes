@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1045.jpg,End_of_30_miles_minimum_speed_limit,0.99,10,7,246,248
-uk_roadsigns_1045.jpg,No_u_turns_for_vehicular_traffic,0.52,253,119,376,240
-uk_roadsigns_1045.jpg,No_u_turns_for_vehicular_traffic,0.51,988,448,1114,573
-uk_roadsigns_1045.jpg,Bend_to_right,0.48,499,229,619,337
-uk_roadsigns_1045.jpg,Two_way_traffic,0.46,743,338,866,449
+uk_roadsigns_1045.jpg,End_of_30_miles_minimum_speed_limit,0.99,10,5,248,248
+uk_roadsigns_1045.jpg,No_u_turns_for_vehicular_traffic,0.98,989,450,1113,573
+uk_roadsigns_1045.jpg,Junction_on_a_bend,0.67,499,229,619,336
+uk_roadsigns_1045.jpg,Road_narrows_on_both_sides,0.53,743,338,866,449
+uk_roadsigns_1045.jpg,No_u_turns_for_vehicular_traffic,0.52,254,118,374,238

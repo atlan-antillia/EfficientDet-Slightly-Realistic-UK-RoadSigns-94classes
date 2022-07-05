@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1024.jpg,No_entry_for_vehicular_traffic,0.99,10,8,248,249
-uk_roadsigns_1024.jpg,No_u_turns_for_vehicular_traffic,0.53,498,227,622,352
-uk_roadsigns_1024.jpg,Water_course_alongside_road,0.47,743,337,988,554
+uk_roadsigns_1024.jpg,No_entry_for_vehicular_traffic,0.98,10,6,251,249
+uk_roadsigns_1024.jpg,No_u_turns_for_vehicular_traffic,0.97,499,227,620,354
+uk_roadsigns_1024.jpg,Low_flying_aircraft_or_sudden_aircraft_noise,0.77,988,448,1112,557
+uk_roadsigns_1024.jpg,Tunnel,0.65,253,120,375,226
+uk_roadsigns_1024.jpg,Riverbank_or_quayside,0.64,744,336,985,555

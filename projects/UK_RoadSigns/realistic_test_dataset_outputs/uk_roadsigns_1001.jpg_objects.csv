@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1001.jpg,Maximum_speed_30,0.9,251,119,491,361
-uk_roadsigns_1001.jpg,Stop_or_give_way_ahead,0.85,500,231,619,336
-uk_roadsigns_1001.jpg,Pedestrians_ahead,0.68,744,336,985,553
+uk_roadsigns_1001.jpg,End_of_30_miles_minimum_speed_limit,0.99,990,443,1228,690
+uk_roadsigns_1001.jpg,Pedestrians_ahead,0.95,7,7,252,223
+uk_roadsigns_1001.jpg,Pedestrians_ahead,0.92,747,341,986,556
+uk_roadsigns_1001.jpg,Maximum_speed_30,0.82,253,118,495,361
+uk_roadsigns_1001.jpg,Stop_or_give_way_ahead,0.73,502,233,619,336

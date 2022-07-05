@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1061.jpg,Children_going_to_or_from_school,0.97,11,9,250,222
-uk_roadsigns_1061.jpg,Turn_ahead_in_the_direction,0.93,497,225,739,466
-uk_roadsigns_1061.jpg,Ridden_or_accompanied_horses_prohibited,0.61,986,445,1235,691
-uk_roadsigns_1061.jpg,Loose_chippings,0.45,255,121,375,225
-uk_roadsigns_1061.jpg,Speed_camera,0.41,749,341,867,445
+uk_roadsigns_1061.jpg,Turn_ahead_in_the_direction,0.97,497,224,738,469
+uk_roadsigns_1061.jpg,Children_going_to_or_from_school,0.94,10,10,249,221
+uk_roadsigns_1061.jpg,Ridden_or_accompanied_horses_prohibited,0.93,991,446,1233,695
+uk_roadsigns_1061.jpg,Loose_chippings,0.6,254,119,375,225
+uk_roadsigns_1061.jpg,Speed_camera,0.43,747,340,866,443

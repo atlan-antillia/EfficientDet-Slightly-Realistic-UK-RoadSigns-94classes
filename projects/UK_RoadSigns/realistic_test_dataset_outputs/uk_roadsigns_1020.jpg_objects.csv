@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1020.jpg,Ford_warning,0.94,10,9,248,220
-uk_roadsigns_1020.jpg,Vehicles_carrying_explosives_prohibited,0.82,253,119,377,241
-uk_roadsigns_1020.jpg,Try_your_brakes,0.65,503,229,740,444
+uk_roadsigns_1020.jpg,Falling_or_fallen_rocks,0.92,988,445,1230,663
+uk_roadsigns_1020.jpg,Vehicles_carrying_explosives_prohibited,0.9,255,117,377,241
+uk_roadsigns_1020.jpg,Try_your_brakes,0.87,504,228,738,447
+uk_roadsigns_1020.jpg,Try_your_brakes,0.8,9,9,248,223
+uk_roadsigns_1020.jpg,End_of_30_miles_minimum_speed_limit,0.75,745,341,862,460

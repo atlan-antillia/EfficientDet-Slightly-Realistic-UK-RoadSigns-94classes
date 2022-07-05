@@ -1,5 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1053.jpg,Maximum_speed_40,0.99,7,6,253,254
-uk_roadsigns_1053.jpg,Pedal_cycles_only,0.83,500,228,740,468
-uk_roadsigns_1053.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.7,257,115,502,331
-uk_roadsigns_1053.jpg,Traffic_merges_from_the_left,0.4,988,449,1112,557
+uk_roadsigns_1053.jpg,Maximum_speed_40,0.96,8,8,254,252
+uk_roadsigns_1053.jpg,Pedal_cycles_only,0.95,505,228,740,466
+uk_roadsigns_1053.jpg,Slippery_road,0.47,255,116,493,332
+uk_roadsigns_1053.jpg,Low_flying_aircraft_or_sudden_aircraft_noise,0.46,742,337,866,446

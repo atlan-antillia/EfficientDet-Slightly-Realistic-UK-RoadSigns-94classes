@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1059.jpg,End_of_dual_carriageway,0.93,256,117,491,329
-uk_roadsigns_1059.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.92,8,9,131,117
-uk_roadsigns_1059.jpg,Fire_station_ahead,0.9,986,440,1151,689
-uk_roadsigns_1059.jpg,Turn_left,0.77,744,338,863,461
-uk_roadsigns_1059.jpg,Part_time_traffic_signals_ahead,0.76,503,230,682,473
+uk_roadsigns_1059.jpg,Turn_left,0.96,744,337,864,461
+uk_roadsigns_1059.jpg,Fire_station_ahead,0.96,994,441,1155,693
+uk_roadsigns_1059.jpg,Road_narrows_on_both_sides,0.72,256,120,495,334
+uk_roadsigns_1059.jpg,Part_time_traffic_signals_ahead,0.67,504,230,685,471
+uk_roadsigns_1059.jpg,Two_way_traffic_on_route_crossing_ahead,0.43,7,8,131,117

@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1092.jpg,Maximum_speed_20,0.99,8,5,249,250
-uk_roadsigns_1092.jpg,Wild_animals,0.83,745,338,987,550
-uk_roadsigns_1092.jpg,Turn_left,0.66,498,227,621,352
-uk_roadsigns_1092.jpg,Tramway,0.4,254,122,498,337
+uk_roadsigns_1092.jpg,Maximum_speed_20,0.98,8,5,251,249
+uk_roadsigns_1092.jpg,Wild_animals,0.91,744,335,987,551
+uk_roadsigns_1092.jpg,National_speed_limit_applies,0.87,499,227,619,349
+uk_roadsigns_1092.jpg,Slow_moving_vehicles,0.7,255,119,495,336
+uk_roadsigns_1092.jpg,Roundabout,0.43,989,448,1113,558

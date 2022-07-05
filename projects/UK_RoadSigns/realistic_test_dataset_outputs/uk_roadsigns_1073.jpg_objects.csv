@@ -1,3 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1073.jpg,Tramcars_only,0.68,990,449,1111,573
-uk_roadsigns_1073.jpg,End_of_20_miles_per_hour_zone,0.56,7,9,130,116
+uk_roadsigns_1073.jpg,Tramcars_only,0.88,989,448,1112,573
+uk_roadsigns_1073.jpg,One_way_traffic,0.87,746,341,827,461
+uk_roadsigns_1073.jpg,Priority_must_be_given_to_vehicles_from_the_opposite_direction,0.82,254,117,376,239
+uk_roadsigns_1073.jpg,Ford_warning,0.63,8,7,130,117
+uk_roadsigns_1073.jpg,Two_way_traffic,0.49,500,228,620,338

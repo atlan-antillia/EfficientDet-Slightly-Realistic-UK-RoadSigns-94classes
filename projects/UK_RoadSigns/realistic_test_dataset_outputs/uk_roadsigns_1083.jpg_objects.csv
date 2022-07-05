@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1083.jpg,No_stopping,0.93,989,448,1113,571
-uk_roadsigns_1083.jpg,Turn_ahead_in_the_direction,0.75,500,226,622,353
-uk_roadsigns_1083.jpg,Zebra_crossing,0.59,254,119,377,227
-uk_roadsigns_1083.jpg,Keep_to_the_left,0.51,9,7,132,130
-uk_roadsigns_1083.jpg,Traffic_queues_likely_ahead,0.44,746,338,990,556
+uk_roadsigns_1083.jpg,Turn_ahead_in_the_direction,0.95,8,7,129,130
+uk_roadsigns_1083.jpg,Turn_ahead_in_the_direction,0.94,501,226,620,351
+uk_roadsigns_1083.jpg,No_stopping,0.93,988,449,1110,570
+uk_roadsigns_1083.jpg,Two_way_traffic,0.72,254,121,376,229
+uk_roadsigns_1083.jpg,Slippery_road,0.58,748,338,983,555

@@ -1,4 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1014.jpg,End_of_dual_carriageway,0.93,8,9,130,115
-uk_roadsigns_1014.jpg,Traffic_signals_ahead,0.77,255,121,377,228
-uk_roadsigns_1014.jpg,Part_time_traffic_signals_ahead,0.48,990,449,1080,571
+uk_roadsigns_1014.jpg,Motor_vehicles_prohibited,0.95,745,337,987,581
+uk_roadsigns_1014.jpg,End_of_dual_carriageway,0.86,9,8,131,116
+uk_roadsigns_1014.jpg,Traffic_signals_ahead,0.69,252,120,375,229
+uk_roadsigns_1014.jpg,Road_narrows_on_both_sides,0.53,499,232,621,334

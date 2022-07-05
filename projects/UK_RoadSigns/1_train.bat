@@ -13,6 +13,6 @@ python ../../ModelTrainer.py ^
   --early_stopping=map ^
   --patience=10 ^
   --eval_batch_size=1 ^
-  --eval_samples=800  ^
-  --num_examples_per_epoch=1200 ^
+  --eval_samples=1000  ^
+  --num_examples_per_epoch=2000 ^
   --num_epochs=160

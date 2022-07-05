@@ -1,5 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1033.jpg,Double_bend_first_to_the_left,0.95,6,9,130,116
-uk_roadsigns_1033.jpg,Pedal_cycles_only,0.71,744,338,864,460
-uk_roadsigns_1033.jpg,Tunnel,0.51,495,224,741,441
-uk_roadsigns_1033.jpg,Slippery_road,0.4,989,448,1111,555
+uk_roadsigns_1033.jpg,Cyclists_and_pedestrians_only,0.94,745,339,865,458
+uk_roadsigns_1033.jpg,Double_bend_first_to_the_left,0.92,8,7,130,118
+uk_roadsigns_1033.jpg,Wild_animals,0.88,990,448,1110,556
+uk_roadsigns_1033.jpg,Tunnel,0.82,495,228,741,445

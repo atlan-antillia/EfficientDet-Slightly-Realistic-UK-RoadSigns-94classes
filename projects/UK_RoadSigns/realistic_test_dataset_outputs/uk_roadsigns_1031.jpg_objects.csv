@@ -1,3 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1031.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.87,12,7,261,224
-uk_roadsigns_1031.jpg,Try_your_brakes,0.49,986,450,1232,665
+uk_roadsigns_1031.jpg,Ford_warning,0.83,989,450,1233,667
+uk_roadsigns_1031.jpg,Steep_descent,0.82,741,341,984,552
+uk_roadsigns_1031.jpg,Road_narrows_on_both_sides,0.63,499,232,619,336
+uk_roadsigns_1031.jpg,Slippery_road,0.5,7,10,259,223

@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1088.jpg,Double_bend_first_to_the_left,0.93,9,9,256,227
-uk_roadsigns_1088.jpg,Stop_or_give_way_ahead,0.8,257,122,378,226
-uk_roadsigns_1088.jpg,Water_course_alongside_road,0.62,987,448,1231,660
-uk_roadsigns_1088.jpg,Zebra_crossing,0.57,498,228,620,337
+uk_roadsigns_1088.jpg,Double_bend_first_to_the_left,0.95,9,10,255,229
+uk_roadsigns_1088.jpg,Hump_bridge,0.89,746,337,988,556
+uk_roadsigns_1088.jpg,Water_course_alongside_road,0.88,991,447,1232,659
+uk_roadsigns_1088.jpg,Stop_or_give_way_ahead,0.8,257,122,379,226
+uk_roadsigns_1088.jpg,Road_narrows_on_both_sides,0.69,498,230,620,336

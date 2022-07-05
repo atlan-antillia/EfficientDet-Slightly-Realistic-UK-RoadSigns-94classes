@@ -1,4 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1072.jpg,Maximum_speed_20,0.99,7,6,253,252
-uk_roadsigns_1072.jpg,Stop,0.84,253,122,496,363
-uk_roadsigns_1072.jpg,Buses_and_tramcars_only,0.56,744,341,867,460
+uk_roadsigns_1072.jpg,Maximum_speed_20,0.98,8,5,255,251
+uk_roadsigns_1072.jpg,Stop,0.94,255,119,499,363
+uk_roadsigns_1072.jpg,Horse_drawn_vehicles_prohibited,0.92,744,338,867,459
+uk_roadsigns_1072.jpg,Road_narrows_on_both_sides,0.62,989,450,1111,556

@@ -1,3 +1,6 @@
 id, class, count
-1,One_way_traffic,1
-2,No_u_turns_for_vehicular_traffic,1
+1,No_u_turns_for_vehicular_traffic,1
+2,Parking_place,1
+3,Solo_motorcycles_prohibited,1
+4,Articulated_vehicles_prohibited,1
+5,Side_winds,1

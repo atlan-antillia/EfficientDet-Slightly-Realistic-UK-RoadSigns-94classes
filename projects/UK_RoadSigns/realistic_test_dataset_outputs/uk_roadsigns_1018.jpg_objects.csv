@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1018.jpg,National_speed_limit_applies,0.94,251,119,495,361
-uk_roadsigns_1018.jpg,Articulated_vehicles_prohibited,0.88,9,7,254,253
-uk_roadsigns_1018.jpg,No_overtaking,0.57,986,445,1232,693
-uk_roadsigns_1018.jpg,Traffic_merges_from_the_left,0.53,499,229,743,445
+uk_roadsigns_1018.jpg,National_speed_limit_applies,0.98,256,115,495,360
+uk_roadsigns_1018.jpg,No_overtaking,0.98,991,445,1231,690
+uk_roadsigns_1018.jpg,Stop_police_ahead,0.84,6,8,253,253
+uk_roadsigns_1018.jpg,Traffic_merges_from_the_left,0.48,502,229,744,442
+uk_roadsigns_1018.jpg,Uneven_road,0.43,745,336,864,445

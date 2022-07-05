@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1032.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.94,744,343,928,577
-uk_roadsigns_1032.jpg,Maximum_speed_30,0.92,253,118,495,361
-uk_roadsigns_1032.jpg,Horse_drawn_vehicles_prohibited,0.83,6,7,130,133
-uk_roadsigns_1032.jpg,Loose_chippings,0.63,988,446,1229,661
+uk_roadsigns_1032.jpg,Entrance_20_miles_per_hour_speed_limit_zone,0.93,742,344,929,581
+uk_roadsigns_1032.jpg,Loose_chippings,0.89,990,446,1230,661
+uk_roadsigns_1032.jpg,Maximum_speed_30,0.87,252,118,496,362
+uk_roadsigns_1032.jpg,Junction_on_a_bend,0.63,496,230,622,337
+uk_roadsigns_1032.jpg,Riding_of_pedal_cycles_prohibited,0.49,10,8,130,129

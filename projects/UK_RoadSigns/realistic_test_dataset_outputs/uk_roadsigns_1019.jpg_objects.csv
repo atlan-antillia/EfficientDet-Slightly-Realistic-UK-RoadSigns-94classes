@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1019.jpg,Buses_prohibited,0.88,9,8,130,131
-uk_roadsigns_1019.jpg,Speed_camera,0.56,252,127,492,325
-uk_roadsigns_1019.jpg,Try_your_brakes,0.54,992,450,1111,557
+uk_roadsigns_1019.jpg,Speed_camera,0.84,256,123,494,328
+uk_roadsigns_1019.jpg,Towed_caravans_prohibited,0.78,10,9,130,130
+uk_roadsigns_1019.jpg,Steep_descent,0.68,990,450,1110,557
+uk_roadsigns_1019.jpg,T_junction,0.44,502,229,744,447
+uk_roadsigns_1019.jpg,Staggered_junction,0.43,747,338,866,447

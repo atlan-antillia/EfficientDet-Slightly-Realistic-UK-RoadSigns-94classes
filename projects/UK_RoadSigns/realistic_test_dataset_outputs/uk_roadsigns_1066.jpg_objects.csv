@@ -1,6 +1,5 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1066.jpg,Children_going_to_or_from_school,0.98,9,9,250,224
-uk_roadsigns_1066.jpg,Zebra_crossing,0.89,987,445,1230,665
-uk_roadsigns_1066.jpg,Tramway,0.79,503,226,740,444
-uk_roadsigns_1066.jpg,Double_bend_first_to_the_left,0.61,251,120,498,336
-uk_roadsigns_1066.jpg,Traffic_merges_from_the_left,0.5,747,338,865,447
+uk_roadsigns_1066.jpg,Children_going_to_or_from_school,0.96,10,10,254,222
+uk_roadsigns_1066.jpg,Double_bend_first_to_the_left,0.95,253,118,495,336
+uk_roadsigns_1066.jpg,Zebra_crossing,0.86,988,446,1229,666
+uk_roadsigns_1066.jpg,Tramway,0.82,503,226,741,444

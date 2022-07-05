@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1030.jpg,Bend_to_right,0.97,255,119,497,331
-uk_roadsigns_1030.jpg,Give_way,0.92,982,444,1229,666
-uk_roadsigns_1030.jpg,No_entry_for_vehicular_traffic,0.9,497,231,743,472
-uk_roadsigns_1030.jpg,Traffic_signals_ahead,0.83,746,337,987,556
-uk_roadsigns_1030.jpg,Loose_chippings,0.7,7,8,133,117
+uk_roadsigns_1030.jpg,No_entry_for_vehicular_traffic,0.98,497,228,743,472
+uk_roadsigns_1030.jpg,Give_way,0.92,993,444,1231,663
+uk_roadsigns_1030.jpg,Bend_to_right,0.91,252,119,496,333
+uk_roadsigns_1030.jpg,Low_flying_aircraft_or_sudden_aircraft_noise,0.83,8,9,131,116
+uk_roadsigns_1030.jpg,Traffic_signals_ahead,0.8,747,339,989,557

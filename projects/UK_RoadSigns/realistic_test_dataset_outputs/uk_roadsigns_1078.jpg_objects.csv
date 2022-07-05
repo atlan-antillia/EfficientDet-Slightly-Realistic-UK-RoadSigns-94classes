@@ -1,4 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1078.jpg,Ford_warning,0.97,11,9,243,221
-uk_roadsigns_1078.jpg,Vehicles_carrying_explosives_prohibited,0.76,251,119,376,242
-uk_roadsigns_1078.jpg,Stop_children_crossing_ahead,0.69,987,446,1236,694
+uk_roadsigns_1078.jpg,Stop_children_crossing_ahead,0.94,989,448,1235,693
+uk_roadsigns_1078.jpg,Vehicles_carrying_explosives_prohibited,0.9,252,117,376,240
+uk_roadsigns_1078.jpg,Ford_warning,0.9,13,10,247,226
+uk_roadsigns_1078.jpg,Junction_on_a_bend,0.85,744,335,865,444
+uk_roadsigns_1078.jpg,Junction_on_a_bend,0.64,499,229,619,336

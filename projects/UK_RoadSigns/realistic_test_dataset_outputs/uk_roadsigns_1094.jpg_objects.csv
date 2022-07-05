@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1094.jpg,Pedal_cycles_only,0.88,742,339,986,583
-uk_roadsigns_1094.jpg,Opening_or_swing_bridge,0.81,11,8,253,221
-uk_roadsigns_1094.jpg,Solo_motorcycles_prohibited,0.75,253,119,498,364
-uk_roadsigns_1094.jpg,No_entry_for_vehicular_traffic,0.75,501,232,618,350
-uk_roadsigns_1094.jpg,Water_course_alongside_road,0.46,990,448,1110,558
+uk_roadsigns_1094.jpg,Cyclists_and_pedestrians_only,0.99,746,338,987,582
+uk_roadsigns_1094.jpg,Opening_or_swing_bridge,0.98,11,9,254,223
+uk_roadsigns_1094.jpg,Solo_motorcycles_prohibited,0.93,253,118,499,363
+uk_roadsigns_1094.jpg,No_entry_for_vehicular_traffic,0.87,503,232,619,348
+uk_roadsigns_1094.jpg,Water_course_alongside_road,0.44,991,450,1111,558

@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1000.jpg,Minimum_speed_limit_30_miles_per_hour,0.99,8,7,132,132
-uk_roadsigns_1000.jpg,Stop,0.88,499,229,618,351
-uk_roadsigns_1000.jpg,Ford_warning,0.64,255,118,497,330
-uk_roadsigns_1000.jpg,Try_your_brakes,0.48,740,339,985,559
-uk_roadsigns_1000.jpg,Turn_ahead_in_the_direction,0.48,989,447,1231,692
+uk_roadsigns_1000.jpg,Keep_to_the_left,0.98,990,446,1234,692
+uk_roadsigns_1000.jpg,Minimum_speed_limit_30_miles_per_hour,0.94,9,7,132,133
+uk_roadsigns_1000.jpg,Other_dangers,0.9,742,339,987,560
+uk_roadsigns_1000.jpg,Steep_descent,0.82,257,118,492,332
+uk_roadsigns_1000.jpg,Stop,0.8,498,229,619,350

@@ -1,6 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1077.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.89,8,8,130,116
-uk_roadsigns_1077.jpg,Pedal_cycles_only,0.8,992,449,1112,571
-uk_roadsigns_1077.jpg,Ice_or_snowdrifts,0.7,253,120,377,228
-uk_roadsigns_1077.jpg,Pedal_cycles_only,0.7,744,340,982,582
-uk_roadsigns_1077.jpg,Junction_on_a_bend,0.56,502,229,745,446
+uk_roadsigns_1077.jpg,Cyclists_and_pedestrians_only,0.98,994,451,1113,571
+uk_roadsigns_1077.jpg,Pedal_cycles_only,0.97,747,338,988,581
+uk_roadsigns_1077.jpg,Junction_on_a_bend,0.93,500,228,743,447
+uk_roadsigns_1077.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.84,6,7,130,116
+uk_roadsigns_1077.jpg,Ice_or_snowdrifts,0.83,255,120,376,228

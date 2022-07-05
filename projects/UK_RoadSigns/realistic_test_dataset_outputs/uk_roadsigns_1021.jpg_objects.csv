@@ -1,5 +1,6 @@
 ImageID, Label, Confidence, XMin, YMin, XMax, YMax
-uk_roadsigns_1021.jpg,No_entry_for_vehicular_traffic,0.98,255,118,498,361
-uk_roadsigns_1021.jpg,Zebra_crossing,0.75,745,339,867,446
-uk_roadsigns_1021.jpg,Try_your_brakes,0.66,989,450,1111,559
-uk_roadsigns_1021.jpg,End_of_dual_carriageway,0.52,499,230,622,337
+uk_roadsigns_1021.jpg,No_entry_for_vehicular_traffic,0.98,257,117,498,362
+uk_roadsigns_1021.jpg,Frail_pedestrians_likely_to_cross,0.83,740,334,869,446
+uk_roadsigns_1021.jpg,Riverbank_or_quayside,0.79,7,9,251,225
+uk_roadsigns_1021.jpg,Ford_warning,0.6,989,450,1110,558
+uk_roadsigns_1021.jpg,Tramway,0.44,499,233,621,336
